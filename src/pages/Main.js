@@ -155,7 +155,7 @@ function Main() {
   return (
     <>
       <VStack>
-        <Heading>Web3 demo 2</Heading>
+        <Heading>Web3-Ethers-Demo - B-CUBE.AI</Heading>
         <Heading mb={10} size="lg">
           Connection, transaction and smart contracts
         </Heading>

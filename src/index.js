@@ -2,6 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import reportWebVitals from './reportWebVitals'
 import { ChakraProvider, theme } from '@chakra-ui/core'
+import 'framer-motion/dist/framer-motion'
 import 'focus-visible/dist/focus-visible'
 import App from './App'
 
