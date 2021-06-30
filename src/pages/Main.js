@@ -155,9 +155,9 @@ function Main() {
   return (
     <>
       <VStack>
-        <Heading>Web3-Ethers-Demo - B-CUBE.AI</Heading>
+        <Heading>Web3-Ethers-Demo-crowdfunding</Heading>
         <Heading mb={10} size="lg">
-          Connection, transaction and smart contracts
+          Connection web3 & dApp Ether (without Smart Contract)
         </Heading>
 
         {!web3State.isWeb3 && <Text>Please install MetaMask</Text>}
