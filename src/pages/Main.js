@@ -229,6 +229,7 @@ function Main() {
           <Button onClick={handleOnConnect}>Connect</Button>
         )}
       </VStack>
+      
     </>
   )
 }
