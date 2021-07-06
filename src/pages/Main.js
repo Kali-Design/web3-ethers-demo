@@ -157,7 +157,7 @@ function Main() {
       <VStack>
         <Heading>Web3-Ethers-Demo-crowdfunding</Heading>
         <Heading mb={10} size="lg">
-          Connection web3 & Test dApp Ether (without Smart Contract)
+          Connection web3 & dApp Ether (without Smart Contract)
         </Heading>
 
         {!web3State.isWeb3 && <Text>Please install MetaMask</Text>}
