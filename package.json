@@ -1,5 +1,6 @@
 {
   "name": "web3-ethers-demo",
+  "author": "Henri-Michel LEOCADIE",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
